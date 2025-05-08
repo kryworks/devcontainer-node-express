@@ -1,6 +1,6 @@
 # Express API DevContainer Setup
 
-This is a minimal Node.js Express API project that I mentioned in my [Developer Experience (DX) Is Culture, Not Just Tooling](https://kryworks.com) article and designed to demonstrate how to use [Dev Containers](https://containers.dev/) for consistent and isolated development environments.
+This is a minimal Node.js Express API project to demonstrate how to use [Dev Containers](https://containers.dev/) for consistent and isolated development environments.
 
 It uses a custom Dockerfile based on the official [devcontainers/javascript-node](https://github.com/devcontainers/images/tree/main/src/javascript-node) image, allowing you to understand how everything works together under the hood.
 
@@ -21,7 +21,7 @@ Make sure you have the following installed:
 - [Docker](https://www.docker.com/get-started/)
 - [VS Code](https://code.visualstudio.com/)
 - [Dev Containers extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-- [Git](https://git-scm.com/)
+- [Git](https://git-scm.com/) 🙂
 
 ### 2. Clone the Repository
 
@@ -52,4 +52,4 @@ This will:
 
 ## Access the API
 
-Visit it at: http://localhost:3000
+Visit it at: http://localhost:3001
